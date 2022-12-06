@@ -1,0 +1,26 @@
+[
+    {
+        "model": "chaseapi.like",
+        "pk": 1,
+        "fields": {
+            "jersey": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "chaseapi.like",
+        "pk": 2,
+        "fields": {
+            "jersey": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "chaseapi.like",
+        "pk": 3,
+        "fields": {
+            "jersey": 2,
+            "user": 1
+        }
+    }
+]

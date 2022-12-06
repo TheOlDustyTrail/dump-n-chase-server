@@ -1,0 +1,258 @@
+[
+    {
+        "model": "chaseapi.team",
+        "pk": 1,
+        "fields": {
+            "name": "Detroit Red Wings",
+            "bio": "As of 2022, the Red Wings have won the most Stanley Cup championships of any NHL franchise based in the United States and are third overall in total Stanley Cup championships"
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 2,
+        "fields": {
+            "name": "Toronto Maple Leafs",
+            "bio": "The Toronto Maple Leafs are a professional ice hockey team based in Toronto. They compete in the National Hockey League as a member of the Atlantic Division in the Eastern Conference. The club is owned by Maple Leaf Sports & Entertainment, a company that owns several professional sports teams in the city."
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 3,
+        "fields": {
+            "name": "Montreal Canadiens",
+            "bio": "The Montreal Canadiens, officially le Club de hockey Canadien and colloquially known as the Habs, are a professional ice hockey team based in Montreal. They compete in the National Hockey League as a member of the Atlantic Division of the Eastern Conference."
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 4,
+        "fields": {
+            "name": "Edmonton Oilers",
+            "bio": "The Edmonton Oilers are a professional ice hockey team based in Edmonton. The Oilers compete in the National Hockey League as a member of the Pacific Division of the Western Conference. They play their home games at Rogers Place, which opened in 2016."
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 5,
+        "fields": {
+            "name": "Boston Bruins",
+            "bio": "The Boston Bruins are a professional ice hockey team based in Boston. The Bruins compete in the National Hockey League as a member of the Atlantic Division in the Eastern Conference"
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 6,
+        "fields": {
+            "name": "Vancouver Canucks",
+            "bio": "The Vancouver Canucks are a professional ice hockey team based in Vancouver. They compete in the National Hockey League as a member of the Pacific Division of the Western Conference, and play their home games at Rogers Arena."
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 7,
+        "fields": {
+            "name": "Calgary Flames",
+            "bio": "The Calgary Flames are a professional ice hockey team based in Calgary. The Flames compete in the National Hockey League as a member of the Pacific Division in the Western Conference."
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 8,
+        "fields": {
+            "name": "Seattle Kraken",
+            "bio": "The Seattle Kraken are a professional ice hockey team based in Seattle. The Kraken compete in the National Hockey League as a member of the Pacific Division in the Western Conference and began play during the league's 2021-22 season. They play their home games at Climate Pledge Arena"
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 9,
+        "fields": {
+            "name": "Pittsburgh Penguins",
+            "bio": "The Pittsburgh Penguins are a professional ice hockey team based in Pittsburgh. They compete in the National Hockey League as a member of the Metropolitan Division of the Eastern Conference, and have played their home games at PPG Paints Arena, originally known as Consol Energy Center, since 2010."
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 10,
+        "fields": {
+            "name": "New Jersey Devils",
+            "bio": "The New Jersey Devils are a professional ice hockey team based in Newark, New Jersey. The Devils compete in the National Hockey League as a member of the Metropolitan Division in the Eastern Conference. The club was founded as the Kansas City Scouts in Kansas City, Missouri, in 1974."
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 11,
+        "fields": {
+            "name": "Colorado Avalanche",
+            "bio": "The Colorado Avalanche are a professional ice hockey team based in Denver. They compete in the National Hockey League as a member of the Central Division in the Western Conference."
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 12,
+        "fields": {
+            "name": "Buffalo Sabres",
+            "bio": "The Buffalo Sabres are a professional ice hockey team based in Buffalo, New York. The Sabres compete in the National Hockey League as a member of the Atlantic Division in the Eastern Conference. The team was established in 1970, along with the Vancouver Canucks, when the league expanded to 14 teams."
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 13,
+        "fields": {
+            "name": "Minnesota Wild",
+            "bio": "The Minnesota Wild are a professional ice hockey team based in Saint Paul, Minnesota. The Wild competes in the National Hockey League as a member of the Central Division in the Western Conference and play their home games at the Xcel Energy Center."
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 14,
+        "fields": {
+            "name": "Ottawa Senators",
+            "bio": "The Ottawa Senators, officially the Ottawa Senators Hockey Club and colloquially known as the Sens, are a professional ice hockey team based in Ottawa."
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 15,
+        "fields": {
+            "name": "Chicago Blackhawks",
+            "bio": "The Chicago Blackhawks are a professional ice hockey team based in Chicago. The Blackhawks compete in the National Hockey League as a member of the Central Division in the Western Conference and have won six Stanley Cup championships since their founding in 1926. "
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 16,
+        "fields": {
+            "name": "Winnipeg Jets",
+            "bio": "The Winnipeg Jets are a professional ice hockey team based in Winnipeg. The team competes in the National Hockey League as a member of the Central Division in the Western Conference, and is owned by True North Sports & Entertainment, playing its home games at Canada Life Centre."
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 17,
+        "fields": {
+            "name": "Tampa Bay Lightning",
+            "bio": "The Tampa Bay Lightning are a professional ice hockey team based in Tampa, Florida. They compete in the National Hockey League as a member of the Atlantic Division in the Eastern Conference. They play their home games at Amalie Arena in Downtown Tampa."
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 18,
+        "fields": {
+            "name": "Vegas Golden Knights",
+            "bio": "The Vegas Golden Knights are a professional ice hockey team based in the Las Vegas metropolitan area. They compete in the National Hockey League as a member of the Pacific Division in the Western Conference."
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 19,
+        "fields": {
+            "name": "Vegas Golden Knights",
+            "bio": "The Vegas Golden Knights are a professional ice hockey team based in the Las Vegas metropolitan area. They compete in the National Hockey League as a member of the Pacific Division in the Western Conference."
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 20,
+        "fields": {
+            "name": "New York Islanders",
+            "bio": "The New York Islanders are a professional ice hockey team based in Elmont, New York. The Islanders compete in the National Hockey League as a member of the Metropolitan Division in the Eastern Conference, and play their home games at UBS Arena."
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 21,
+        "fields": {
+            "name": "Philadelphia Flyers",
+            "bio": "The Philadelphia Flyers are a professional ice hockey team based in Philadelphia. The Flyers compete in the National Hockey League as a member of the Metropolitan Division in the Eastern Conference."
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 22,
+        "fields": {
+            "name": "Los Angeles Kings",
+            "bio": "The Los Angeles Kings are a professional ice hockey team based in Los Angeles. The team competes in the National Hockey League as a member of the Pacific Division in the Western Conference"
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 23,
+        "fields": {
+            "name": "Washington Capitals",
+            "bio": "The Washington Capitals are a professional ice hockey team based in Washington, D.C. The team competes in the National Hockey League as a member of the Metropolitan Division in the Eastern Conference, and is owned by Monumental Sports & Entertainment, headed by Ted Leonsis."
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 24,
+        "fields": {
+            "name": "Dallas Stars",
+            "bio": "The Dallas Stars are a professional ice hockey team based in Dallas. They compete in the National Hockey League as a member of the Central Division in the Western Conference, and were founded during the 1967 NHL expansion as the Minnesota North Stars, based in Bloomington, Minnesota."
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 25,
+        "fields": {
+            "name": "San Jose Sharks",
+            "bio": "The San Jose Sharks are a professional ice hockey team based in San Jose, California. They compete in the National Hockey League as a member of the Pacific Division in the Western Conference, and are owned by San Jose Sports & Entertainment Enterprises."
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 26,
+        "fields": {
+            "name": "Florida Panthers",
+            "bio": "The Florida Panthers are a professional ice hockey team based in the Miami metropolitan area. They compete in the National Hockey League as a member of the Atlantic Division in the Eastern Conference, and initially played their home games at Miami Arena before moving to the FLA Live Arena in 1998."
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 27,
+        "fields": {
+            "name": "Carolina Hurricanes",
+            "bio": "The Carolina Hurricanes are a professional ice hockey team based in Raleigh, North Carolina. They compete in the National Hockey League as a member of the Metropolitan Division in the Eastern Conference, and play their home games at PNC"
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 28,
+        "fields": {
+            "name": "Anaheim Ducks",
+            "bio": "The Anaheim Ducks are a professional ice hockey team based in Anaheim, California. The Ducks compete in the Western Conference of the National Hockey League as a member of the Pacific Division, and play their home games at Honda Center."
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 29,
+        "fields": {
+            "name": "Columbus Blue Jackets",
+            "bio": "The Columbus Blue Jackets are a professional ice hockey team based in Columbus, Ohio. They compete in the National Hockey League as a member of the Metropolitan Division in the Eastern Conference, and began play as an expansion team in 2000."
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 30,
+        "fields": {
+            "name": "Nashville Predators",
+            "bio": "The Nashville Predators are a professional ice hockey team based in Nashville, Tennessee. They compete in the National Hockey League as a member of the Central Division in the Western Conference, and have played their home games at Bridgestone Arena since 1998."
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 31,
+        "fields": {
+            "name": "Arizona Coyotes",
+            "bio": "The Arizona Coyotes are a professional ice hockey team based in the Phoenix metropolitan area. The Coyotes compete in the National Hockey League as a member of the Central Division in the Western Conference and currently play at the Mullett Arena in Tempe."
+        }
+    },
+    {
+        "model": "chaseapi.team",
+        "pk": 32,
+        "fields": {
+            "name": "St. Louis Blues",
+            "bio": "The St. Louis Blues are a professional ice hockey team based in St. Louis. The Blues compete in the National Hockey League as a member of the Central Division in the Western Conference. The franchise was founded in 1967 as one of the six teams from the 1967 NHL expansion and is named after the W. C."
+        }
+    }
+]
