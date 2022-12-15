@@ -1,0 +1,9 @@
+[
+    {
+        "model": "chaseapi.dumpuser",
+        "pk": 1,
+        "fields": {
+            "user": 1
+        }
+    }
+]

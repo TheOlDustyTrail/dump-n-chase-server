@@ -63,3 +63,4 @@ class JerseyPostSerializer(serializers.ModelSerializer):
     class Meta:
         model = JerseyPost
         fields = ('id', 'photo', 'year', 'description', 'team', 'creator')
+        depth = 1

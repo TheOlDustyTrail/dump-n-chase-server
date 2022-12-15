@@ -16,7 +16,7 @@ class LikeView(ViewSet):
 
     def list(self, request):
 
-        like = Like.objects.all()
+        like = Like.objects.filter(user=request.auth.user)
         serializer = LikeSerializer(like, many=True)
         return Response(serializer.data)
 
@@ -44,3 +44,4 @@ class LikeSerializer(serializers.ModelSerializer):
     class Meta:
         model = Like
         fields = ('id', 'jersey', 'user')
+        depth = 1

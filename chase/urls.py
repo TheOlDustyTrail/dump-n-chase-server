@@ -1,7 +1,7 @@
 from django.contrib import admin
 from django.conf.urls import include
 from django.urls import path
-from chaseapi.views import register_user, login_user, TeamView, LikeView, JerseyPostView, CommentView
+from chaseapi.views import register_user, login_user, TeamView, LikeView, JerseyPostView, CommentView, DumpUserView
 from django.conf.urls import include
 from rest_framework import routers
 
@@ -11,6 +11,7 @@ router.register(r'teams', TeamView, 'team')
 router.register(r'likes', LikeView, 'like')
 router.register(r'jerseyPosts', JerseyPostView, 'jerseyPost')
 router.register(r'comments', CommentView, 'comment')
+router.register(r'users', DumpUserView, 'user')
 
 urlpatterns = [
     path('register', register_user),

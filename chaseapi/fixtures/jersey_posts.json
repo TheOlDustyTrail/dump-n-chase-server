@@ -4,7 +4,7 @@
         "pk": 1,
         "fields": {
             "creator": 1,
-            "photo": "https://live.staticflickr.com/7236/7170937713_314fab86bb_z.jpg",
+            "photo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671120217/Detroit_Cougars_ra3hxl.jpg",
             "year": "1926-27",
             "description": "Detroit's first entry in the NHL is known as the Cougars, and their original jerseys feature an old English D",
             "team": 1,
@@ -18,7 +18,7 @@
         "pk": 2,
         "fields": {
             "creator": 1,
-            "photo": "https://live.staticflickr.com/4145/5412818655_6e1c83f114_b.jpg",
+            "photo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671120830/Detroit_1926-27_cltfho.jpg",
             "year": "1927-28",
             "description": "The Cougars change their jersey, which now spells the word Detroit out across the front.",
             "team": 1,
@@ -32,7 +32,7 @@
         "pk": 3,
         "fields": {
             "creator": 1,
-            "photo": "https://cdn3.volusion.com/hsvyv.perfu/v/vspfiles/photos/Detroit-Falcons-2.jpg",
+            "photo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671120645/Detroit-Falcons-2_psh6qs.jpg",
             "year": "1930-32",
             "description": "The team changes its name to the Falcons and wears a color other than red for the only time in its history.",
             "team": 1,

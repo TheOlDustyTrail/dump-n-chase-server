@@ -9,7 +9,7 @@
             "first_name": "Carrie",
             "last_name": "Belk",
             "email": "me@me.com",
-            "is_staff": false,
+            "is_staff": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
     }

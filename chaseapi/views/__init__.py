@@ -3,3 +3,4 @@ from .TeamViews import TeamView
 from .LikeViews import LikeView
 from .JerseyPostViews import JerseyPostView
 from .CommentViews import CommentView
+from .dump_users import DumpUserView
