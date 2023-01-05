@@ -5,7 +5,10 @@
         "fields": {
             "name": "Detroit Red Wings",
             "bio": "As of 2022, the Red Wings have won the most Stanley Cup championships of any NHL franchise based in the United States and are third overall in total Stanley Cup championships",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671124050/Wings_Logo_xzjozu.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671124050/Wings_Logo_xzjozu.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671206957/Red-Kelly-Ted-Lindsay-Metro-Prystiol-Gordie-Howe-Detroit-Red-Wings-Getty-Images_peapgh.jpg",
+            "carousel2": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671217834/wings_08_fxdg42.jpg",
+            "carousel3": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671207382/redwings_2022_b6ug42.jpg"
         }
     },
     {
@@ -14,7 +17,10 @@
         "fields": {
             "name": "Toronto Maple Leafs",
             "bio": "The Toronto Maple Leafs are a professional ice hockey team based in Toronto. They compete in the National Hockey League as a member of the Atlantic Division in the Eastern Conference. The club is owned by Maple Leaf Sports & Entertainment, a company that owns several professional sports teams in the city.",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123990/leafs_logo_d5l5ge.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123990/leafs_logo_d5l5ge.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671466889/leafs_old_wov9qe.jpg",
+            "carousel2": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671467949/Leafs_winter_classic_bd23kl.jpg",
+            "carousel3": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671468078/leafs_current_rwsfrl.jpg"
         }
     },
     {
@@ -23,7 +29,10 @@
         "fields": {
             "name": "Montreal Canadiens",
             "bio": "The Montreal Canadiens, officially le Club de hockey Canadien and colloquially known as the Habs, are a professional ice hockey team based in Montreal. They compete in the National Hockey League as a member of the Atlantic Division of the Eastern Conference.",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123941/montreal_logo_wblyqe.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123941/montreal_logo_wblyqe.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671468308/Montreal_old_qtzkti.jpg",
+            "carousel2": "",
+            "carousel3": ""
         }
     },
     {
@@ -32,7 +41,10 @@
         "fields": {
             "name": "Edmonton Oilers",
             "bio": "The Edmonton Oilers are a professional ice hockey team based in Edmonton. The Oilers compete in the National Hockey League as a member of the Pacific Division of the Western Conference. They play their home games at Rogers Place, which opened in 2016.",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123884/Oilers_logo_weijjv.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123884/Oilers_logo_weijjv.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671469429/Oilers_old_hhrxs3.jpg",
+            "carousel2": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671469656/Oilers_1997_apmdxc.jpg",
+            "carousel3": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671469706/Oliers_current_m7j9bp.jpg"
         }
     },
     {
@@ -41,7 +53,10 @@
         "fields": {
             "name": "Boston Bruins",
             "bio": "The Boston Bruins are a professional ice hockey team based in Boston. The Bruins compete in the National Hockey League as a member of the Atlantic Division in the Eastern Conference",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123836/Bruins_logo_bmhq48.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123836/Bruins_logo_bmhq48.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671482720/Bruins_Old_gbt2ur.jpg",
+            "carousel2": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671469916/Boston_Chara_mhqutf.jpg",
+            "carousel3": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671469831/Bruins_current_m4xsaq.jpg"
         }
     },
     {
@@ -50,7 +65,10 @@
         "fields": {
             "name": "Vancouver Canucks",
             "bio": "The Vancouver Canucks are a professional ice hockey team based in Vancouver. They compete in the National Hockey League as a member of the Pacific Division of the Western Conference, and play their home games at Rogers Arena.",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123780/Canucks_logo_cmcctp.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123780/Canucks_logo_cmcctp.jpg",
+            "carousel1": "",
+            "carousel2": "",
+            "carousel3": ""
         }
     },
     {
@@ -59,7 +77,10 @@
         "fields": {
             "name": "Calgary Flames",
             "bio": "The Calgary Flames are a professional ice hockey team based in Calgary. The Flames compete in the National Hockey League as a member of the Pacific Division in the Western Conference.",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671122109/flames_logo_drefe1.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671122109/flames_logo_drefe1.jpg",
+            "carousel1": "",
+            "carousel2": "",
+            "carousel3": ""
         }
     },
     {
@@ -68,7 +89,10 @@
         "fields": {
             "name": "Seattle Kraken",
             "bio": "The Seattle Kraken are a professional ice hockey team based in Seattle. The Kraken compete in the National Hockey League as a member of the Pacific Division in the Western Conference and began play during the league's 2021-22 season. They play their home games at Climate Pledge Arena",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671122226/Kracken_logo_brbrrm.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671122226/Kracken_logo_brbrrm.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671470348/Kracken_current_hurf5s.webp",
+            "carousel2": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671470386/Kracken_2_smol8u.jpg",
+            "carousel3": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671470477/Kracken_3_gxu4xj.jpg"
         }
     },
     {
@@ -77,7 +101,10 @@
         "fields": {
             "name": "Pittsburgh Penguins",
             "bio": "The Pittsburgh Penguins are a professional ice hockey team based in Pittsburgh. They compete in the National Hockey League as a member of the Metropolitan Division of the Eastern Conference, and have played their home games at PPG Paints Arena, originally known as Consol Energy Center, since 2010.",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671122271/penguins_logo_ephjbs.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671122271/penguins_logo_ephjbs.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671470695/penguins_old_ojksma.webp",
+            "carousel2": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671470837/penguins_jager_wg0tnc.jpg",
+            "carousel3": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671470915/penguins_trio_s2dpie.png"
         }
     },
     {
@@ -86,7 +113,10 @@
         "fields": {
             "name": "New Jersey Devils",
             "bio": "The New Jersey Devils are a professional ice hockey team based in Newark, New Jersey. The Devils compete in the National Hockey League as a member of the Metropolitan Division in the Eastern Conference. The club was founded as the Kansas City Scouts in Kansas City, Missouri, in 1974.",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671122328/devils_logo_pckyvq.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671122328/devils_logo_pckyvq.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671471239/Devils_cup_tayqjw.jpg",
+            "carousel2": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671471405/devils_old_xvebvz.jpg",
+            "carousel3": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671471526/devils_current_hn2sq4.jpg"
         }
     },
     {
@@ -95,7 +125,10 @@
         "fields": {
             "name": "Colorado Avalanche",
             "bio": "The Colorado Avalanche are a professional ice hockey team based in Denver. They compete in the National Hockey League as a member of the Central Division in the Western Conference.",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671122388/Avalanche_logo_sxyqii.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671122388/Avalanche_logo_sxyqii.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671472493/Avalanche_old_slvzfz.jpg",
+            "carousel2": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671472847/Avalanche_cup_xqv2ua.png",
+            "carousel3": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671472901/avalanche_current_sqy9fq.jpg"
         }
     },
     {
@@ -104,7 +137,10 @@
         "fields": {
             "name": "Buffalo Sabres",
             "bio": "The Buffalo Sabres are a professional ice hockey team based in Buffalo, New York. The Sabres compete in the National Hockey League as a member of the Atlantic Division in the Eastern Conference. The team was established in 1970, along with the Vancouver Canucks, when the league expanded to 14 teams.",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671122435/Sabers_logo_cx28jv.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671122435/Sabers_logo_cx28jv.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671473052/sabers_old_cskbcq.webp",
+            "carousel2": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671474607/sabers_french_connection_havbpn.jpg",
+            "carousel3": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671473742/sabers_current_h1qhsa.jpg"
         }
     },
     {
@@ -113,7 +149,10 @@
         "fields": {
             "name": "Minnesota Wild",
             "bio": "The Minnesota Wild are a professional ice hockey team based in Saint Paul, Minnesota. The Wild competes in the National Hockey League as a member of the Central Division in the Western Conference and play their home games at the Xcel Energy Center.",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671122479/wild_logo_jwevka.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671122479/wild_logo_jwevka.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671473801/wild_old_qr5mwm.webp",
+            "carousel2": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671473830/wind_2_gjjies.webp",
+            "carousel3": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671473885/wild_current_rncmuq.jpg"
         }
     },
     {
@@ -122,7 +161,10 @@
         "fields": {
             "name": "Ottawa Senators",
             "bio": "The Ottawa Senators, officially the Ottawa Senators Hockey Club and colloquially known as the Sens, are a professional ice hockey team based in Ottawa.",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123672/Senators_logo_jizri0.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123672/Senators_logo_jizri0.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671474014/Senators_old_pjjeni.jpg",
+            "carousel2": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671474154/Senators_current_mumx8x.jpg",
+            "carousel3": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671474402/Senators_3_s3i5nj.jpg"
         }
     },
     {
@@ -131,7 +173,10 @@
         "fields": {
             "name": "Chicago Blackhawks",
             "bio": "The Chicago Blackhawks are a professional ice hockey team based in Chicago. The Blackhawks compete in the National Hockey League as a member of the Central Division in the Western Conference and have won six Stanley Cup championships since their founding in 1926. ",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671122520/blackhawks_logo_oycojd.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671122520/blackhawks_logo_oycojd.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671486150/cut_lxpfdv.jpg",
+            "carousel2": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671486237/hawks_old_gzvra7.jpg",
+            "carousel3": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671486276/hawks_pjmwpz.webp"
         }
     },
     {
@@ -140,7 +185,10 @@
         "fields": {
             "name": "Winnipeg Jets",
             "bio": "The Winnipeg Jets are a professional ice hockey team based in Winnipeg. The team competes in the National Hockey League as a member of the Central Division in the Western Conference, and is owned by True North Sports & Entertainment, playing its home games at Canada Life Centre.",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671122579/jets_logo_cdca2z.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671122579/jets_logo_cdca2z.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671474733/jets_cup_gnev19.webp",
+            "carousel2": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671474776/jets_2000s_ivl9py.jpg",
+            "carousel3": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671474815/jets_current_yqwxbx.jpg"
         }
     },
     {
@@ -149,7 +197,10 @@
         "fields": {
             "name": "Tampa Bay Lightning",
             "bio": "The Tampa Bay Lightning are a professional ice hockey team based in Tampa, Florida. They compete in the National Hockey League as a member of the Atlantic Division in the Eastern Conference. They play their home games at Amalie Arena in Downtown Tampa.",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671122656/Lightning_logo_clrro7.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671122656/Lightning_logo_clrro7.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671476953/Lightning_st_louis_sr1uso.jpg",
+            "carousel2": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671475687/Lightning_current_chdjub.jpg",
+            "carousel3": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671475769/tampa_kuch_cidg9p.jpg"
         }
     },
     {
@@ -158,7 +209,10 @@
         "fields": {
             "name": "Vegas Golden Knights",
             "bio": "The Vegas Golden Knights are a professional ice hockey team based in the Las Vegas metropolitan area. They compete in the National Hockey League as a member of the Pacific Division in the Western Conference.",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671122717/Knights_logo_dcapax.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671122717/Knights_logo_dcapax.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671475845/knights_1_ho3rhn.jpg",
+            "carousel2": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671480936/knights_first_sesaon_v9mcrn.jpg",
+            "carousel3": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671481030/knights_3_griaav.jpg"
         }
     },
     {
@@ -167,7 +221,10 @@
         "fields": {
             "name": "New York Rangers",
             "bio": "The New York Rangers are a professional ice hockey team based in the New York City borough of Manhattan. They compete in the National Hockey League as a member of the Metropolitan Division in the Eastern Conference.",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671122951/Rangers_logo_urln2a.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671122951/Rangers_logo_urln2a.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671481089/rangers_cup_lbvnoi.webp",
+            "carousel2": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671481180/rangers_old_tn5uou.png",
+            "carousel3": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671481229/rangers_current_dju5my.jpg"
         }
     },
     {
@@ -176,7 +233,10 @@
         "fields": {
             "name": "New York Islanders",
             "bio": "The New York Islanders are a professional ice hockey team based in Elmont, New York. The Islanders compete in the National Hockey League as a member of the Metropolitan Division in the Eastern Conference, and play their home games at UBS Arena.",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671122817/Islanders_logo_vh4bwd.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671122817/Islanders_logo_vh4bwd.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671481445/islanders_cuo_umqfiz.jpg",
+            "carousel2": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671481479/islanders_trio_kwoaj1.jpg",
+            "carousel3": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671481545/islanders_current_v0mpas.jpg"
         }
     },
     {
@@ -185,7 +245,10 @@
         "fields": {
             "name": "Philadelphia Flyers",
             "bio": "The Philadelphia Flyers are a professional ice hockey team based in Philadelphia. The Flyers compete in the National Hockey League as a member of the Metropolitan Division in the Eastern Conference.",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123003/Flyers_logo_wu67eo.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123003/Flyers_logo_wu67eo.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671482021/flyers_old_jwsxck.jpg",
+            "carousel2": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671481829/flyers_cup_vcwjqt.jpg",
+            "carousel3": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671481865/flyers_currenty_ho3oz1.jpg"
         }
     },
     {
@@ -194,7 +257,10 @@
         "fields": {
             "name": "Los Angeles Kings",
             "bio": "The Los Angeles Kings are a professional ice hockey team based in Los Angeles. The team competes in the National Hockey League as a member of the Pacific Division in the Western Conference",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123053/Kings_logo_uqahvp.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123053/Kings_logo_uqahvp.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671482886/kings_cup_rsvap9.jpg",
+            "carousel2": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671482530/kings_old_fjzosp.webp",
+            "carousel3": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671482612/kings_greztsskuy_smzcki.jpg"
         }
     },
     {
@@ -203,7 +269,10 @@
         "fields": {
             "name": "Washington Capitals",
             "bio": "The Washington Capitals are a professional ice hockey team based in Washington, D.C. The team competes in the National Hockey League as a member of the Metropolitan Division in the Eastern Conference, and is owned by Monumental Sports & Entertainment, headed by Ted Leonsis.",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123103/Capitals_logo_xrr3c7.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123103/Capitals_logo_xrr3c7.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671482988/Capitals_current_bgebz9.avif",
+            "carousel2": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671483109/Capitals_old_th1xa8.jpg",
+            "carousel3": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671483150/Capitals_cup_pogrm9.jpg"
         }
     },
     {
@@ -212,7 +281,10 @@
         "fields": {
             "name": "Dallas Stars",
             "bio": "The Dallas Stars are a professional ice hockey team based in Dallas. They compete in the National Hockey League as a member of the Central Division in the Western Conference, and were founded during the 1967 NHL expansion as the Minnesota North Stars, based in Bloomington, Minnesota.",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123177/Stars_logo_xcvpon.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123177/Stars_logo_xcvpon.jpg",
+            "carousel1": "",
+            "carousel2": "",
+            "carousel3": ""
         }
     },
     {
@@ -221,7 +293,10 @@
         "fields": {
             "name": "San Jose Sharks",
             "bio": "The San Jose Sharks are a professional ice hockey team based in San Jose, California. They compete in the National Hockey League as a member of the Pacific Division in the Western Conference, and are owned by San Jose Sports & Entertainment Enterprises.",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123225/Sharks_logo_hmgpsy.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123225/Sharks_logo_hmgpsy.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671483270/Sharks_old_zkqhvq.jpg",
+            "carousel2": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671483374/sharks_thorton_uj7gjp.webp",
+            "carousel3": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671483414/sharks_current_pctwkr.jpg"
         }
     },
     {
@@ -230,7 +305,10 @@
         "fields": {
             "name": "Florida Panthers",
             "bio": "The Florida Panthers are a professional ice hockey team based in the Miami metropolitan area. They compete in the National Hockey League as a member of the Atlantic Division in the Eastern Conference, and initially played their home games at Miami Arena before moving to the FLA Live Arena in 1998.",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123288/Panthers_logo_xkvmxv.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123288/Panthers_logo_xkvmxv.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671483608/panthers_old_hycmd4.jpg",
+            "carousel2": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671483689/panthers_current_opdurq.jpg",
+            "carousel3": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671483728/panthers_retro_fanfy3.jpg"
         }
     },
     {
@@ -239,7 +317,10 @@
         "fields": {
             "name": "Carolina Hurricanes",
             "bio": "The Carolina Hurricanes are a professional ice hockey team based in Raleigh, North Carolina. They compete in the National Hockey League as a member of the Metropolitan Division in the Eastern Conference, and play their home games at PNC",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123341/Canes_logo_vbhpge.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123341/Canes_logo_vbhpge.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671483854/canes_old_hu5qra.webp",
+            "carousel2": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671483911/canes_cup_ahtyom.jpg",
+            "carousel3": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671483964/canes_celly_ugkdmn.jpg"
         }
     },
     {
@@ -248,7 +329,10 @@
         "fields": {
             "name": "Anaheim Ducks",
             "bio": "The Anaheim Ducks are a professional ice hockey team based in Anaheim, California. The Ducks compete in the Western Conference of the National Hockey League as a member of the Pacific Division, and play their home games at Honda Center.",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123399/Ducks_logo_ufucvj.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123399/Ducks_logo_ufucvj.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671484047/ducks_old_xavrs0.webp",
+            "carousel2": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671484097/ducks_cup_wm4nin.webp",
+            "carousel3": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671484260/ducks_current_dhsi73.jpg"
         }
     },
     {
@@ -257,7 +341,10 @@
         "fields": {
             "name": "Columbus Blue Jackets",
             "bio": "The Columbus Blue Jackets are a professional ice hockey team based in Columbus, Ohio. They compete in the National Hockey League as a member of the Metropolitan Division in the Eastern Conference, and began play as an expansion team in 2000.",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123440/Blue_Jackets_Logo_dgnz9k.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123440/Blue_Jackets_Logo_dgnz9k.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671484419/blue_jackets_current_mmsbbg.jpg",
+            "carousel2": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671484455/jackets_pncueo.jpg",
+            "carousel3": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671484387/blue_jackets_old_ngt51m.jpg"
         }
     },
     {
@@ -266,7 +353,10 @@
         "fields": {
             "name": "Nashville Predators",
             "bio": "The Nashville Predators are a professional ice hockey team based in Nashville, Tennessee. They compete in the National Hockey League as a member of the Central Division in the Western Conference, and have played their home games at Bridgestone Arena since 1998.",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123480/Preds_logo_zdyvzl.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123480/Preds_logo_zdyvzl.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671484522/preds_old_ojuj9z.jpg",
+            "carousel2": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671484566/preds_curreny_qy5wak.jpg",
+            "carousel3": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671484621/preds_current_hfn265.webp"
         }
     },
     {
@@ -275,7 +365,10 @@
         "fields": {
             "name": "Arizona Coyotes",
             "bio": "The Arizona Coyotes are a professional ice hockey team based in the Phoenix metropolitan area. The Coyotes compete in the National Hockey League as a member of the Central Division in the Western Conference and currently play at the Mullett Arena in Tempe.",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123535/Coyotes_logo_wgcvb5.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123535/Coyotes_logo_wgcvb5.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671484837/coyotes_old_ieixiu.jpg",
+            "carousel2": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671484874/coyotes_current_pc1fhc.jpg",
+            "carousel3": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671484923/coyotes_purple_zv7aq3.jpg"
         }
     },
     {
@@ -284,7 +377,10 @@
         "fields": {
             "name": "St. Louis Blues",
             "bio": "The St. Louis Blues are a professional ice hockey team based in St. Louis. The Blues compete in the National Hockey League as a member of the Central Division in the Western Conference. The franchise was founded in 1967 as one of the six teams from the 1967 NHL expansion and is named after the W. C.",
-            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123577/Blues_logo_smork8.jpg"
+            "logo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671123577/Blues_logo_smork8.jpg",
+            "carousel1": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671485020/blues_old_uqdwml.jpg",
+            "carousel2": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671485066/blues_cup_m3fz0h.jpg",
+            "carousel3": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671485112/blues_current_c89vvs.jpg"
         }
     }
 ]
