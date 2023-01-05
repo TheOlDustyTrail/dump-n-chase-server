@@ -21,7 +21,7 @@
             "photo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671120830/Detroit_1926-27_cltfho.jpg",
             "year": "1927-28",
             "description": "The Cougars change their jersey, which now spells the word Detroit out across the front.",
-            "team": 1,
+            "team": 2,
             "user_likes": [
                 1
             ]
@@ -35,10 +35,358 @@
             "photo": "http://res.cloudinary.com/dlfjffxgj/image/upload/v1671120645/Detroit-Falcons-2_psh6qs.jpg",
             "year": "1930-32",
             "description": "The team changes its name to the Falcons and wears a color other than red for the only time in its history.",
-            "team": 1,
+            "team": 3,
             "user_likes": [
                 1
             ]
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 4,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "",
+            "description": "",
+            "team": 4,
+            "user_likes": []
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 5,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "",
+            "description": "",
+            "team": 5,
+            "user_likes": []
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 6,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "",
+            "description": "",
+            "team": 6,
+            "user_likes": []
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 7,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "Test",
+            "description": "Test",
+            "team": 7,
+            "user_likes": []
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 8,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "Test",
+            "description": "Test",
+            "team": 8,
+            "user_likes": []
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 9,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "",
+            "description": "",
+            "team": 9,
+            "user_likes": []
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 10,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "",
+            "description": "",
+            "team": 10,
+            "user_likes": []
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 11,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "",
+            "description": "",
+            "team": 11,
+            "user_likes": []
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 12,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "",
+            "description": "",
+            "team": 12,
+            "user_likes": []
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 13,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "",
+            "description": "",
+            "team": 13,
+            "user_likes": []
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 14,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "",
+            "description": "",
+            "team": 14,
+            "user_likes": []
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 15,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "",
+            "description": "",
+            "team": 15,
+            "user_likes": []
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 16,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "",
+            "description": "",
+            "team": 16,
+            "user_likes": []
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 17,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "",
+            "description": "",
+            "team": 17,
+            "user_likes": []
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 18,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "",
+            "description": "",
+            "team": 18,
+            "user_likes": []
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 19,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "",
+            "description": "",
+            "team": 19,
+            "user_likes": []
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 20,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "",
+            "description": "",
+            "team": 20,
+            "user_likes": []
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 21,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "",
+            "description": "",
+            "team": 21,
+            "user_likes": []
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 22,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "",
+            "description": "",
+            "team": 22,
+            "user_likes": []
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 23,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "",
+            "description": "",
+            "team": 23,
+            "user_likes": []
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 24,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "",
+            "description": "",
+            "team": 24,
+            "user_likes": []
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 25,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "",
+            "description": "",
+            "team": 25,
+            "user_likes": []
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 26,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "",
+            "description": "",
+            "team": 26,
+            "user_likes": []
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 27,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "",
+            "description": "",
+            "team": 27,
+            "user_likes": []
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 28,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "",
+            "description": "",
+            "team": 28,
+            "user_likes": []
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 29,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "",
+            "description": "",
+            "team": 29,
+            "user_likes": []
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 30,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "",
+            "description": "",
+            "team": 30,
+            "user_likes": []
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 31,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "",
+            "description": "",
+            "team": 31,
+            "user_likes": []
+        }
+    },
+    {
+        "model": "chaseapi.jerseypost",
+        "pk": 32,
+        "fields": {
+            "creator": 1,
+            "photo": "",
+            "year": "",
+            "description": "",
+            "team": 32,
+            "user_likes": []
         }
     }
 ]

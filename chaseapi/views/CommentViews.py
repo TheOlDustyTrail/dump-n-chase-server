@@ -10,9 +10,12 @@ from django.contrib.auth.models import User
 class CommentView(ViewSet):
 
     def retrieve(self, request, pk):
-        comment = Comment.objects.get(pk=pk)
-        serializer = CommentSerializer(comment)
-        return Response(serializer.data)
+        try:
+            comment = Comment.objects.get(pk=pk)
+            serializer = CommentSerializer(comment)
+            return Response(serializer.data)
+        except Comment.DoesNotExist:
+            return Response(status=status.HTTP_404_NOT_FOUND)
 
     def list(self, request):
 
@@ -33,7 +36,7 @@ class CommentView(ViewSet):
 
         )
         serializer = CommentSerializer(comment)
-        return Response(serializer.data)
+        return Response(serializer.data, status=status.HTTP_201_CREATED)
 
     def destroy(self, request, pk):
         comment = Comment.objects.get(pk=pk)
